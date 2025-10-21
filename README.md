@@ -1,2 +1,2 @@
 # VCOs
-Repo contains the Images and output waveforms of Differential Ring Oscillator and Current Starved VCO
+Repo contains the images and output waveforms of Differential Ring Oscillator and Current Starved VCO
